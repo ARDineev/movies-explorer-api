@@ -7,5 +7,4 @@
 ## Ссылки на проект
 
 IP 51.250.16.33
-
 Backend https://api.movies.expl.nomoredomainsrocks.ru/
